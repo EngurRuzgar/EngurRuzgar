@@ -1,4 +1,1 @@
-ex-discord bot developer
-used to use js
-learning py
-not much active
+# discord: @nucceteere (currently using @nucceteere2 because I have no access to the main one right now)
