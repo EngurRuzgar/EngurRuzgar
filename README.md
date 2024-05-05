@@ -6,4 +6,4 @@ Student, translator and proofreader for multiple open source projects.
 
 Discord: *nucceteere2*
 
-E-Mail: *[ruzgarengur@pm.me](mailto: ruzgarengur@pm.me)*
+E-Mail: *ruzgarengur@pm.me*
