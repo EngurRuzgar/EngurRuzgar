@@ -4,6 +4,7 @@ I'm a self-taught developer. I know Python and JavaScript. I love backend work b
 
 # Contact
 
-Email: info@nucceteere.xyz<br>
-Email: legal@nucceteere.xyz<br>
+Proffessional Contact: info@nucceteere.xyz<br>
+Personal Contact: ruzgar@nucceteere.xyz<br>
+Legal Contact: legal@nucceteere.xyz<br>
 Discord: nucceteere2
